@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"workspaceName": {
+			"value": "test1100"
+		},
+		"test1100-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"test1100-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://test1100.dfs.core.windows.net"
+		}
+	}
+}
